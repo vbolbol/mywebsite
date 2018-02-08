@@ -1,4 +1,4 @@
-# mywebsiteabout me
+# about me
 
 <p>I'm so thrilled to learn web development to become a guru developer.</p>
 <p>my name is Belal Alhattab I was born and live in Gaza I’m 29 years old, married.
